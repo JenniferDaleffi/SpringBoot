@@ -2,7 +2,7 @@
 
 Este é o meu primeiro projeto utilizando Spring Boot! 
 
-<img src"=https://img.icons8.com/?size=100&id=5OD485koNIrb&format=png&color=000000">
+<img src="https://img.icons8.com/?size=100&id=5OD485koNIrb&format=png&color=000000">
 
 ## Tecnologias Utilizadas
 
