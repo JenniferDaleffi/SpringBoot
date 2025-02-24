@@ -10,12 +10,6 @@ Este é o meu primeiro projeto utilizando Spring Boot!
   
 - Java 23 versão.
 
-## Funcionalidades
-
-- [Descrever uma funcionalidade, por exemplo: "Cadastro de novos usuários."]
-- [Descrever outra funcionalidade, como: "Autenticação e autorização utilizando Spring Security."]
-- [Mais funcionalidades conforme necessário.]
-
 ## Como Rodar o Projeto
 
 1. **Clonar o repositório:**
