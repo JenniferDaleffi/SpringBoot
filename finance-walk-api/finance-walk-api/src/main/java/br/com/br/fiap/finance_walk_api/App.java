@@ -1,13 +1,13 @@
-package br.com.br.fiap.finance_walk_api;
+package br.com.fiap.finance_walk_api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FinanceWalkApiApplication {
+public class App {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FinanceWalkApiApplication.class, args);
+		SpringApplication.run(App.class, args);
 	}
 
 }
