@@ -1,4 +1,4 @@
-package br.com.fiap.finance_walk_api;
+package br.com.br;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

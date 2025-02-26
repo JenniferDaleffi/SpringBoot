@@ -1,9 +1,9 @@
-package br.com.fiap.finance_walk_api.model;
+package br.com.br.fiap.finance_walk_api.model;
 
 //teste
 
 public class Category {
-    
+
     private Long id;
     private String name;
     private String icon;
