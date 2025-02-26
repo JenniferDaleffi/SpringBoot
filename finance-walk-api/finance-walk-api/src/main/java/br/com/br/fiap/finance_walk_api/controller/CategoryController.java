@@ -10,6 +10,8 @@ import br.com.br.fiap.finance_walk_api.model.Category;
 @RestController
 public class CategoryController {
 
+    private list <Category> repository = new ArrayList<>();
+
     // Listar todas as categorias
     // GET :8080/categories
     @GetMapping("/categories")
@@ -22,7 +24,10 @@ public class CategoryController {
 
     // Cadastrar categoria
     @PostMapping("/categories")
-    public void create(Category category){
+    public void create(@RequestBody Category category){
+
+        repository.add(category);
+        System.out.println("Cadastrando categoria" + category.getName());
 
     }
 
